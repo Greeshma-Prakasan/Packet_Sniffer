@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-print("Use Sudo")
-
 from datetime import datetime
 import sys
 import subprocess
